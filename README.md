@@ -4,7 +4,7 @@ Data Science Virtual Internship programme by British Airways through Forage!
 # Task 1
 Applying webscraping in unstructured data taken from the https://www.airlinequality.com/airline-reviews/british-airways analyze customer reviews using sentimental analysis to sort positive and negative reviews preparing a powerpoint representation to highlight our insights and analysis
 
-<img width="427" alt="image" src="https://github.com/DDDDNNNNNThanh/British-Airways-Virtual-Internship/assets/110702728/92ef2c06-d9ea-467e-87f9-942b19e69a60">
+<img width="427" alt="image" src="https://github.com/DDDDNNNNNThanh/British-Airways-Virtual-Internship/assets/110702728/598cbfbd-2484-479c-82fa-1f7e63d0d8d6">
 
 <img width="427" alt="image" src="https://github.com/DDDDNNNNNThanh/British-Airways-Virtual-Internship/assets/110702728/d2638d67-5fa2-4623-a652-90e7ce083793">
 
